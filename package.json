@@ -1,0 +1,44 @@
+{
+  "name": "react-search-product-list-demo",
+  "version": "1.0.0",
+  "main": "/src/index.js",
+  "private": false,
+  "author": "super456(纵倾童鞋)",
+  "license": "MIT",
+  "homepage": "https://github.com/super456/react-search-product-list-demo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/super456/react-search-product-list-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/super456/react-search-product-list-demo/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
+  },
+  "devDependencies": {},
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
